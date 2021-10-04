@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/work/Catalina/Catalina.iml" filepath="$PROJECT_DIR$/work/Catalina/Catalina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work/webapps/examples/WEB-INF/WEB-INF.iml" filepath="$PROJECT_DIR$/work/webapps/examples/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backup/webapps/examples/WEB-INF/WEB-INF1.iml" filepath="$PROJECT_DIR$/backup/webapps/examples/WEB-INF/WEB-INF1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/examples/WEB-INF/WEB-INF2.iml" filepath="$PROJECT_DIR$/webapps/examples/WEB-INF/WEB-INF2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/docs/docs.iml" filepath="$PROJECT_DIR$/webapps/docs/docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backup/webapps/docs/docs1.iml" filepath="$PROJECT_DIR$/backup/webapps/docs/docs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work/webapps/docs/docs2.iml" filepath="$PROJECT_DIR$/work/webapps/docs/docs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/examples/jsp/jsp.iml" filepath="$PROJECT_DIR$/webapps/examples/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/examples/WEB-INF/jsp/jsp1.iml" filepath="$PROJECT_DIR$/webapps/examples/WEB-INF/jsp/jsp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backup/webapps/examples/jsp/jsp2.iml" filepath="$PROJECT_DIR$/backup/webapps/examples/jsp/jsp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work/webapps/examples/WEB-INF/jsp/jsp3.iml" filepath="$PROJECT_DIR$/work/webapps/examples/WEB-INF/jsp/jsp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backup/webapps/examples/WEB-INF/jsp/jsp4.iml" filepath="$PROJECT_DIR$/backup/webapps/examples/WEB-INF/jsp/jsp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work/webapps/examples/jsp/jsp5.iml" filepath="$PROJECT_DIR$/work/webapps/examples/jsp/jsp5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tomcat.iml" filepath="$PROJECT_DIR$/.idea/tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backup/work/work.iml" filepath="$PROJECT_DIR$/backup/work/work.iml" />
+    </modules>
+  </component>
+</project>

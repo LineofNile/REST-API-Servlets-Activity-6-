@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-zh-CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-cs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-ru.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-de.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-pt-BR.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/ecj-4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/catalina-ssi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-ko.jar!/" />
+      <root url="jar://$PROJECT_DIR$/backup/lib/tomcat-i18n-fr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
